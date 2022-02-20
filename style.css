@@ -1,0 +1,17 @@
+body{
+    font-size: 20px;
+    background-image: url("sketch_back1.jpg");
+    color: white;
+    font-family: 'Gochi Hand', cursive;
+    font-weight: medium;
+    font-size: 35;
+}
+#timer{
+    float: right;
+    margin-right: 65px;
+}
+#score{
+    margin-left: 55px;
+}
+
+
